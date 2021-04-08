@@ -1,0 +1,31 @@
+deliverable:
+- buildname: _001
+  label: Resolve API Guide
+  language: en-US
+  lastmodifiedby: philippe.coudert@sap.com
+  loio: resolve-apiguide
+  owner: i051221
+  product: resolve
+  rootfile: upload.zip
+  transtype: html5.uacp
+  shortdesc: api guide for resolve
+  version: alpha
+  gh_edit_prefix: "https://github.tools.sap/UACP/Resolve/tree/main/apidoc/"
+outputmeta:
+- product: rise
+  product_name: Rise
+  product_sapid: null
+  version: alpha
+  version_name: alpha
+  version_sapid: null  
+mapref:
+  - title: "Resolve API Guide"
+    loio: "resolve-api-guide"
+    shortdesc: "Learn everything about Resolve API"
+nav:
+  - title: "Introduction"
+    filename: "introduction.md"
+  - title: "Level2"
+    subnav: 
+    - title: "Topic niveau2"
+      filename: "level2/topiclevel2.md"
