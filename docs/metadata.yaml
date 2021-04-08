@@ -1,27 +1,27 @@
 deliverable:
 - buildname: _001
-  label: Resolve API Guide
+  label: SAP GH test doc
   language: en-US
   lastmodifiedby: philippe.coudert@sap.com
-  loio: resolve-apiguide
+  loio: sapgh-testdoc
   owner: i051221
-  product: resolve
+  product: sapuatest
   rootfile: upload.zip
   transtype: html5.uacp
-  shortdesc: api guide for resolve
+  shortdesc: test doc for sap gh
   version: alpha
-  gh_edit_prefix: "https://github.tools.sap/UACP/Resolve/tree/main/apidoc/"
+  gh_edit_prefix: "https://github.com/uacppub/gh_uacppub_doctest/main/docs/"
 outputmeta:
-- product: rise
-  product_name: Rise
+- product: sapuatest
+  product_name: SAP UA TEST
   product_sapid: null
   version: alpha
   version_name: alpha
   version_sapid: null  
 mapref:
-  - title: "Resolve API Guide"
-    loio: "resolve-api-guide"
-    shortdesc: "Learn everything about Resolve API"
+  - title: "SAP UA GH test Guide"
+    loio: "sapgh-testdoc"
+    shortdesc: "Learn everything about SA UA"
 nav:
   - title: "Introduction"
     filename: "introduction.md"
